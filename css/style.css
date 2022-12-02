@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    padding: 3rem;
+}
+
+h1{
+    margin-bottom: 1rem;
+}
+
+.unstyled-list{
+    list-style-type: none;
+}
